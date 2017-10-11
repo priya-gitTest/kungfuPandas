@@ -23,7 +23,7 @@ Use dict.get() method to lookup a key with default value.
 
 Exercise 2:
 
-Write a program that takes a filename and a parameter `n` and prints the `n` most common words in the file, and the count of their occurrences, in descending order.
+Write a program that takes a parameter `n` and prints the `n` most common words in the file, and the count of their occurrences, in descending order from the "article.txt" file.
 
 For example:
 
