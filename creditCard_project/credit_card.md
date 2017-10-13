@@ -36,7 +36,7 @@ There are three instance methods. You may perform these methods in the order you
 Visa must start with 4  
 Mastercard must start with 51, 52, 53, 54 or 55  
 AMEX must start with 34 or 37  
-Discover must start with   
+Discover must start with 60 
 
 `check_length` should check whether or not a credit card number is a valid length.
 
