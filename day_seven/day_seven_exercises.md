@@ -25,8 +25,8 @@ To create a table:
 c.execute("CREATE TABLE 'users' (
 'id' INTEGER,
 'name' VARCHAR,
-'account' VARCHAR,
-'balance' REAL,
+'email' VARCHAR,
+'country' VARCHAR,
 PRIMARY KEY ('id')
 )")
 ```
