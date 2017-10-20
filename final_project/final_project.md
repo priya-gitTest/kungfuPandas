@@ -8,11 +8,11 @@ For those of you who do not know the rules for translating an English word to Pi
 
 Example:
 
-	"Hello World, its a lovely day today" 
+	"Hello World, its a lovely day today, check it out" 
 	
 	will become
 	
-	"ello-Hay orld-Way, its-ay a-ay ovely-lay ay-day oday-tay"
+	"ello-Hay orld-Way, its-ay a-ay ovely-lay ay-day oday-tay, eck-chay it-ay out-ay"
 
 What I want you to do is using the MVC format build a program that can take in user input and translate it to Pig Latin and from Pig Latin. 
 
