@@ -1,8 +1,10 @@
 Your final project is to build a Pig Latin translator.
 
 For those of you who do not know the rules for translating an English word to Pig-Latin are as follows:
-	ï If the word starts with a vowel, it is unchanged.
-	ï Otherwise, all of the consonants at the beginning of the word (up to the first vowel) are moved to the end of the word, preceded by a dash (for readability), and followed by ìayî.
+
+	‚Ä¢ If the word starts with a vowel, it is unchanged.
+
+‚Ä¢ Otherwise, all of the consonants at the beginning of the word (up to the first vowel) are moved to the end of the word, preceded by a dash (for readability), and followed by ‚Äúay‚Äù.
 
 What I want you to do is using the MVC format build a program that can translate to Pig Latin and from Pig Latin. 
 
